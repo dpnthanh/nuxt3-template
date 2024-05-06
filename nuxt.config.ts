@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   modules: ['nuxt-primevue', '@nuxt/eslint'],
   css: [
     '@/assets/css/reset.css',
+    'primeflex/primeflex.css',
     'primevue/resources/themes/aura-light-green/theme.css',
     'primeicons/primeicons.css',
   ],

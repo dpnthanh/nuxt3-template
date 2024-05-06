@@ -1,5 +1,5 @@
 <template>
-  <div>
-    <Button label="Check" icon="pi pi-check" />
+  <div class="px-4">
+    Dashboard
   </div>
 </template>
