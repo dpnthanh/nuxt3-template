@@ -1,3 +1,6 @@
 {
-    "nuxt.isNuxtApp": false
+  "nuxt.isNuxtApp": false,
+  "editor.defaultFormatter": null,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true
 }
